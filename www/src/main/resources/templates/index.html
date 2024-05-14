@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<th:block th:replace="~{layout :: setFragment(~{this::content})}">
+    <th:block th:fragment="content">
+        <div>
+            <h3>Why Spring boot</h3>
+            <p>현재 시간은 </p>
+        </div>
+    </th:block>
+</th:block>
