@@ -31,6 +31,12 @@ dependencies {
 	implementation 'com.mysql:mysql-connector-j'
 	// https://mvnrepository.com/artifact/org.bgee.log4jdbc-log4j2/log4jdbc-log4j2-jdbc4.1
 	implementation 'org.bgee.log4jdbc-log4j2:log4jdbc-log4j2-jdbc4.1:1.16'
+
+	/*tika_core tika-parsers 2.4.1 thumbnailator 0.4.17*/
+	implementation 'org.apache.tika:tika-core:2.4.1'
+	implementation 'org.apache.tika:tika-parsers:2.4.1'
+	implementation 'net.coobird:thumbnailator:0.4.17'
+
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
 	annotationProcessor 'org.projectlombok:lombok'

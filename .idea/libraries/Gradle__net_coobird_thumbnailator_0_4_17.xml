@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: net.coobird:thumbnailator:0.4.17" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.coobird" artifactId="thumbnailator" version="0.4.17" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/www/.gradle/caches/modules-2/files-2.1/net.coobird/thumbnailator/0.4.17/4dbb7adfc9ac2346b8c40817130879ee87f20533/thumbnailator-0.4.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
